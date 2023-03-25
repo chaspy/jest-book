@@ -1,3 +1,4 @@
 export default {
-  preset: 'ts-jest/presets/js-with-ts-esm',
-}
+  preset: "ts-jest/presets/js-with-ts-esm",
+  testEnvironment: "jsdom",
+};
