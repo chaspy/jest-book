@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "jsx": "react",
     /* Visit https://aka.ms/tsconfig to read more about this file */
 
     /* Projects */
@@ -102,5 +103,5 @@
   },
   "include": ["./src/**/*.ts", "./src/**/*.tsx"],
   "ts-node": { "esm": true },
-  "jsx": "react-jsx" /* Specify what JSX code is generated. */
+  "jsx": "react" /* Specify what JSX code is generated. */
 }
