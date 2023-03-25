@@ -1,0 +1,19 @@
+{
+  "name": "jest-book",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaspy/jest-book.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chaspy/jest-book/issues"
+  },
+  "homepage": "https://github.com/chaspy/jest-book#readme"
+}
